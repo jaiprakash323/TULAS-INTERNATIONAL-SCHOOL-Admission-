@@ -1,6 +1,6 @@
 # Tula's International School (TIS) - Homepage Redesign
 
-A modern, animated, high-converting redesign of the **Tula's International School (TIS) Dehradun** homepage ([tis.edu.in](https://tis.edu.in/)). Built with modern React, Tailwind CSS, Framer Motion, and Lucide React to elevate the school's online presence while retaining its core brand identity, legacy, and copy.
+A modern, animated, high-converting redesign of the **Tula's International School (TIS) Dehradun** homepage. Built with modern React, Tailwind CSS, Framer Motion, and Lucide React to elevate the school's online presence while retaining its core brand identity, legacy, and copy.
 
 ## Tech Stack
 
