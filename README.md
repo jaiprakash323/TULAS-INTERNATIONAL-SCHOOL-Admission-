@@ -2,16 +2,7 @@
 
 A modern, animated, high-converting redesign of the **Tula's International School (TIS) Dehradun** homepage ([tis.edu.in](https://tis.edu.in/)). Built with modern React, Tailwind CSS, Framer Motion, and Lucide React to elevate the school's online presence while retaining its core brand identity, legacy, and copy.
 
----
-
-## 🚀 Live Demo & Repository
-
-- **Live URL:** [TIS Redesign Deployment](https://tis-homepage-redesign.vercel.app) *(Deployable on Vercel / Netlify / GitHub Pages)*
-- **GitHub Repository:** [https://github.com/your-username/tis-homepage-redesign](https://github.com/your-username/tis-homepage-redesign)
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** React 19 + Vite (TypeScript)
 - **Styling:** Tailwind CSS v4 + Vanilla CSS Variables & Glassmorphism design tokens
@@ -21,7 +12,7 @@ A modern, animated, high-converting redesign of the **Tula's International Schoo
 
 ---
 
-## ✨ Standout Features Implemented (Included All 4!)
+## Standout Features Implemented (Included All 4!)
 
 1. **Feature A: Custom Cursor (`CustomCursor.tsx`)**
    - Interactive mouse-follower ring with inner precision dot using Framer Motion springs.
@@ -42,7 +33,7 @@ A modern, animated, high-converting redesign of the **Tula's International Schoo
 
 ---
 
-## 🏛️ High-Converting Additions & Interactive Components
+## High-Converting Additions & Interactive Components
 
 - **Hero Showcase:** High-impact copy, live admissions open badge, video tour play preview, floating 22-acre & 8:1 ratio stat chips.
 - **Live Animated Metrics Counter (`CountUpNumber.tsx`):** Animated numerical count-up when metrics scroll into viewport (22+ Acres, 8:1 Ratio, 16+ Sports, 100% CBSE Success).
@@ -57,7 +48,7 @@ A modern, animated, high-converting redesign of the **Tula's International Schoo
 
 ---
 
-## 📐 Component Architecture Overview
+## Component Architecture Overview
 
 ```
 src/
@@ -74,7 +65,7 @@ src/
 
 ---
 
-## 📦 Getting Started Locally
+## Getting Started Locally
 
 1. **Clone the repository:**
    ```bash
@@ -100,7 +91,7 @@ src/
 
 ---
 
-## 🛡️ Brand Identity Retained
+## Brand Identity Retained
 
 - Official Tula's International School colors (Royal Navy `#0B192C`, Academic Gold `#D4AF37`, Emerald Green `#059669`).
 - Authentic address details (Dhoolkot, Near P.O. Selakui, Chakrata Road, Dehradun - 248011, Uttarakhand).
