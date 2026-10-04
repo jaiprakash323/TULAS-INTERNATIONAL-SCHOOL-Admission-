@@ -2,15 +2,6 @@
 
 A modern, animated, high-converting redesign of the **Tula's International School (TIS) Dehradun** homepage ([tis.edu.in](https://tis.edu.in/)). Built with modern React, Tailwind CSS, Framer Motion, and Lucide React to elevate the school's online presence while retaining its core brand identity, legacy, and copy.
 
----
-
-## Live Demo & Repository
-
-- **Live URL:** [TIS Redesign Deployment](https://tis-homepage-redesign.vercel.app) *(Deployable on Vercel / Netlify / GitHub Pages)*
-- **GitHub Repository:** [https://github.com/your-username/tis-homepage-redesign](https://github.com/your-username/tis-homepage-redesign)
-
----
-
 ## Tech Stack
 
 - **Framework:** React 19 + Vite (TypeScript)
